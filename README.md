@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm Mohamed Mostafa, a **Computer Science graduate** with 
 | **Category**          | **Technologies & Skills**                      |
 |-----------------------|-----------------------------------------------|
 | **Backend Frameworks**| .NET Core, ASP.NET Core                       |
-| **Frontend**          | HTML, CSS                                     |
+| **Frontend**          | HTML, CSS, Javascript                                     |
 | **Databases**         | SQL (MySQL, SQL Server, PostgreSQL)           |
 | **Specializations**   | REST APIs, AI Integration                     |
 | **Soft Skills**       | Leadership, Communication, Agile Methodologies |
