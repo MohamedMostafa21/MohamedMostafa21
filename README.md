@@ -1,6 +1,6 @@
 # 🚀 Mohamed Mostafa | Backend Innovator
 
-Welcome to my GitHub! I'm Mohamed Mostafa, a **Computer Science graduate** with a passion for building scalable, high-performance backend systems that drive real-world impact. I specialize in crafting robust APIs and managing complex databases, turning ideas into seamless solutions. As a natural leader with exceptional communication skills, I excel at uniting  teams to deliver cutting-edge software.Also, My ability to collaborate globally ensures clarity and success in every project.
+Welcome to my GitHub! I'm Mohamed Mostafa, a **Computer Science graduate** with a passion for building scalable, high-performance backend systems that drive real-world impact. I specialize in crafting robust APIs and managing complex databases, turning ideas into seamless solutions. As a natural leader with exceptional communication skills, I excel at uniting  teams to deliver cutting-edge software. Also, My ability to collaborate globally ensures clarity and success in every project.
 
 ---
 
