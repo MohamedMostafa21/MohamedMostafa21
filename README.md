@@ -33,7 +33,7 @@ Welcome to my GitHub! I'm Mohamed Mostafa, a **Computer Science graduate** with 
 - **[R7alh Platform](https://github.com/MohamedMostafa21/R7alh)**: A dynamic travel recommendation platform powered by .NET Core, delivering personalized APIs and real-time data for exceptional user experiences.
 - **[Wallet (Budget Tracker)](https://github.com/MohamedMostafa21/Wallet)**: A .NET Core-based budget management app designed to help users track expenses and achieve financial goals with ease.
 - **[Distributed Database Management System](https://github.com/MohamedMostafa21/DistributedDB)**: A high-performance system for managing distributed databases, optimized for scalability and reliability using SQL.
-- **[Education App](https://github.com/MohamedMostafa21/EduApp)**: An innovative learning platform with a robust backend, enabling dynamic content delivery for accessible education.
+- **[Shoulder Cross-Stretch Evaluation](https://github.com/MohamedMostafa21/Shoulder-Cross-Stretch-Evaluation-Using-TensorFlow-and-OpenCV)**: This project aims to develop a computer vision application using convolutional neural networks (CNN) to evaluate the correctness of shoulder cross stretch exercises. The application utilizes TensorFlow for model training and OpenCV for real-time image processing.
 
 *Check out my pinned repositories below for more details!*
 
