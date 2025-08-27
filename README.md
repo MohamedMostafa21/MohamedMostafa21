@@ -43,6 +43,7 @@ Welcome to my GitHub! I'm Mohamed Mostafa, a **Computer Science graduate** with 
 - 📧 Email: [Mohamed.Mostafa31@outlook.com](mailto:Mohamed.Mostafa31@outlook.com)
 - 💼 LinkedIn: [linkedin.com/in/mohamedmostafa21/](https://www.linkedin.com/in/mohamedmostafa21/)
 - 👩‍💻 Codforces: [https://codeforces.com/profile/Gnsh1](https://codeforces.com/profile/Gnsh1)
+
 I’m open to collaboration, open-source projects, or discussions about the future of backend development!
 
 ---
