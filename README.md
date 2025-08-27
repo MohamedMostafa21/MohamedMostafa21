@@ -25,7 +25,6 @@ Welcome to my GitHub! I'm Mohamed Mostafa, a **Computer Science graduate** with 
 ---
 
 ## 📊 GitHub Stats
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedMostafa21&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMostafa21&layout=compact&theme=dracula)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MohamedMostafa21&theme=gruvbox)
 
